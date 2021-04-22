@@ -3,3 +3,4 @@ paddleclas
 ppgan
 paddleseg
 paddlex
+visualdl
